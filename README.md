@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
    ```bash
    git clone https://github.com/felpst/product-list.git
-   cd product-catalog
+   cd product-list
    ```
 
 2. Install dependencies:
